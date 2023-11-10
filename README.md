@@ -1,2 +1,2 @@
-# programming1
-for newbie programming students
+# Programming
+For newbie programming students.
